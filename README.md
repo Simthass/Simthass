@@ -37,7 +37,7 @@ me.say_hi()
 - 🌱 I'm currently learning **Deep Learning, Computer Vision, and NLP**
 - 👯 I'm looking to collaborate on **Open Source AI/ML projects**
 - 💬 Ask me about **Python, Machine Learning, Web Development**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **simthass@outlook.com**
 - ⚡ Fun fact: **I love problem-solving and turning coffee into code ☕️**
 
 ---
