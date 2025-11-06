@@ -109,41 +109,6 @@ me.say_hi()
 
 ## 🏆 Featured Projects
 
-### 🤖 AI & Machine Learning
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Image Classification with CNN</h3>
-      <p align="center">
-        <a href="https://github.com/Simthass/project1" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github" alt="View Repository" />
-        </a>
-      </p>
-      <p>Deep learning model for image classification using CNNs with 95% accuracy on CIFAR-10 dataset. Implemented with TensorFlow and Keras.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Sentiment Analysis Tool</h3>
-      <p align="center">
-        <a href="https://github.com/Simthass/project2" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github" alt="View Repository" />
-        </a>
-      </p>
-      <p>NLP-based sentiment analysis system for social media data using LSTM networks. Achieves 92% accuracy on Twitter dataset.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLTK-green?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 ### 💻 Full Stack Development
 
 <table>
@@ -198,7 +163,6 @@ me.say_hi()
 ## 🏅 Achievements & Certifications
 
 - 🎓 **Computer Science Student** - SLIIT CITY UNI
-- 📚 Currently pursuing: **Machine Learning Specialization** - Coursera
 - 🏆 **175+ GitHub Contributions** in the last year
 - 💡 Active learner in **AI/ML** and **Software Development**
 
