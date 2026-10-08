@@ -1,349 +1,240 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Simthass%20Mohammed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20Undergraduate&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1D4ED8,70:06B6D4,100:22C55E&text=Simthass%20Mohammed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=BSc%20(Hons)%20Computer%20Science%20Graduate%20(2:1)%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=18" alt="header" />
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Full+Stack+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A7%A0;Turning+Ideas+into+Reality+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+real-world+AI+%26+full-stack+products;Turning+ideas+into+shippable+software;Focused+on+ML%2C+backend+systems%2C+and+product+execution;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Badges -->
-<img src="https://komarev.com/ghpvc/?username=Simthass&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Simthass?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00D26A?style=for-the-badge&logoColor=white" />
+<a href="https://komarev.com/ghpvc/?username=Simthass&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=Simthass&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/Simthass?tab=followers">
+  <img src="https://img.shields.io/github/followers/Simthass?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="followers" />
+</a>
+<img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<a href="https://simthass.me">
+  <img src="https://img.shields.io/badge/PORTFOLIO-simthass.me-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+</a>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-16A34A?style=for-the-badge&logo=rocket&logoColor=white" alt="status" />
 
 </div>
 
 ---
 
-<!-- About Me Terminal Block -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A Quick Intro
 
-```bash
-┌──(simthass㉿universe)-[~/about-me]
-└─$ cat profile.json
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+name: Simthass Mohammed
+role: Graduate Software Engineer | Full-Stack Developer
+education: BSc (Hons) Computer Science - Upper Second-Class Honours (2:1)
+institution: University of Bedfordshire (studied at SLIIT City Uni)
+location: Colombo, Sri Lanka
+focus:
+  - AI / ML Applications
+  - Full-Stack Product Development
+  - Backend APIs & System Design
+  - Multi-Agent Workflows
+currently:
+  building:
+    - TypeTrace
+    - AI-powered product experiments
+    - Full-stack portfolio projects
+  learning:
+    - PyTorch
+    - MLOps concepts
+    - Advanced backend architecture
 ```
 
-```json
-{
-  "name"        : "Simthass Mohammed",
-  "role"        : "CS Undergraduate | AI/ML Enthusiast | Full Stack Dev",
-  "university"  : "SLIIT CITY UNI — B.Sc. (Hons) Computer Science",
-  "location"    : "🇱🇰 Sri Lanka",
-  "status"      : "🟢 Open to internships & collaborations",
-  "interests"   : [
-                    "Artificial Intelligence",
-                    "Machine Learning & Deep Learning",
-                    "Computer Vision & NLP",
-                    "Full Stack Development",
-                    "Multi-Agent Systems"
-                  ],
-  "currently"   : {
-    "learning"  : ["PyTorch", "TensorFlow", "Google ADK", "Docker"],
-    "building"  : ["AI Portfolio Projects", "Web Apps", "Multi-Agent Systems"],
-    "reading"   : ["Research Papers", "AI Documentation", "Open Source Code"]
-  },
-  "goal_2026"   : "Secure a role as an AI/ML Engineer 🎯",
-  "fun_fact"    : "I turn ☕ coffee into code and bugs into features"
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" alt="coding" />
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="28"> What I Bring
+
+<div align="center">
+
+| Strength | What it means |
+|---|---|
+| 🤖 AI / ML Product Thinking | I enjoy taking an idea from problem discovery to a usable product. |
+| 🌐 Full-Stack Delivery | Comfortable building frontend, backend, data flow, and deployment. |
+| 🧠 Practical Problem Solving | I prefer building systems that solve real user or workflow problems. |
+| 🚀 Ownership Mindset | I like shipping what I build and improving it through iteration. |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="28"> Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cs,java,sql" />
+</p>
+
+### Frontend & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,redux" />
+</p>
+
+### Databases, Cloud & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux,vscode,postman,gcp" />
+</p>
+
+### AI / ML
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ TypeTrace
+**Keystroke Dynamics Authorship Verification Platform**
+
+<img src="https://img.shields.io/badge/React-Frontend-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+My final-year project focused on using **keystroke dynamics** and **machine learning** to support authorship verification. I independently built the frontend, backend, authentication flow, session replay features, and containerized deployment workflow.
+
+**Highlights**
+- Full-stack product built independently
+- ML-powered inference service with FastAPI
+- React + TypeScript interface with RBAC and OTP flow
+- Dissertation-focused real-world problem solving
+
+[![Repository](https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass/TypeTrace)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 LitSynth
+**AI-Powered Literature Review System**
+
+<img src="https://img.shields.io/badge/Multi--Agent-System-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20ADK-Agent%20Framework-34A853?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%202.0-LLM-8B5CF6?style=flat-square&logo=googlebard&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex%20AI-Cloud-0EA5E9?style=flat-square&logo=googlecloud&logoColor=white" />
+
+A literature-review assistant built as part of the **Google & Kaggle AI Agents Intensive**. The system uses multiple agents to process papers, extract useful information, and support structured research workflows.
+
+**Highlights**
+- 6-agent workflow for parallel research tasks
+- Built with Python, Google ADK, Gemini, and Vertex AI
+- Cloud deployment with monitoring and API access
+- Strong foundation in AI agent orchestration
+
+[![Repository](https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass/litsynth-ai-literature-review)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ Heart Interrogator
+A psychological puzzle game exploring distributed services, external API orchestration, and authentication.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass/heart-interrogator-game)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏕️ The Great Outdoors
+A MERN-based e-commerce application with user flows, catalog management, and order handling.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass/The-Great-Outdoors-Ecommerce)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![All Repositories](https://img.shields.io/badge/View%20All%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass?tab=repositories)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simthass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Simthass&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simthass&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Simthass&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNhZzZsM29laGZ2Ym4wYTQ1dWE1N2duYjU0MHB2a3VseDFzaXk4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="28"> Current Focus
+
+```javascript
+const currentFocus = {
+  building: [
+    "AI/ML applications with real-world use cases",
+    "Full-stack systems with stronger backend architecture",
+    "Portfolio-quality projects that are actually usable"
+  ],
+  improving: [
+    "ML engineering fundamentals",
+    "System design thinking",
+    "Deployment and product polish"
+  ],
+  openTo: ["Graduate roles", "AI/ML opportunities", "Full-stack roles", "Collaboration"]
 }
 ```
 
-```bash
-┌──(simthass㉿universe)-[~/about-me]
-└─$ echo "Thanks for visiting! Let's build the future together 🚀"
-
-Thanks for visiting! Let's build the future together 🚀
-```
-
-<div align="center">
-
-<!-- Coding GIF -->
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="Coding GIF" />
-
-</div>
-
 ---
 
-<!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"> Connect With Me
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-simthass.me-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://simthass.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simthass-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simthass)
 [![Email](https://img.shields.io/badge/Email-simthass@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simthass@outlook.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@simthass-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simthass)
 [![GitHub](https://img.shields.io/badge/GitHub-Simthass-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass)
+[![Twitter](https://img.shields.io/badge/Twitter-@simthass-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/simthass)
 
 </div>
 
 ---
 
-<!-- Tech Stack -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Tools
-
-```bash
-┌──(simthass㉿universe)-[~/skills]
-└─$ ls -la tech-stack/
-```
-
-### 🧠 AI / ML / Data Science
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,35:1D4ED8,70:06B6D4,100:22C55E" alt="footer" />
 
-</div>
-
-### 💻 Programming Languages
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### 🌐 Web Development
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### 🗄️ Databases & DevOps
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
-
-```bash
-┌──(simthass㉿universe)-[~/stats]
-└─$ github-stats --user Simthass --verbose
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Simthass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simthass&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6e96&currStreakLabel=00d9ff&border_radius=10" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simthass&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10&langs_count=8" height="160" />
-
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simthass&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6e96&area=true&hide_border=true&radius=10" width="95%" />
-
-</div>
-
----
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-```bash
-┌──(simthass㉿universe)-[~/projects]
-└─$ cat projects.yaml | grep -i "featured"
-```
-
-<br/>
-
-### 🤖 AI / ML Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🛡️ [TypeTrace](https://github.com/Simthass/TypeTrace)
-
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Web](https://img.shields.io/badge/Web%20App-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![AI](https://img.shields.io/badge/Anomaly%20Detection-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-A web-based text editor that uses **keystroke dynamics** and **ML anomaly detection** to verify real human authorship. Protects students from false AI-cheating accusations through behavioral biometrics.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass/TypeTrace)
-
-</td>
-    <td width="50%" valign="top">
-
-#### 📚 [LitSynth](https://github.com/Simthass/litsynth-ai-literature-review)
-
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-34A853?style=flat-square&logo=google&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-9B59B6?style=flat-square&logo=openai&logoColor=white)
-
-An **AI-Powered Literature Review Co-pilot** using a multi-agent system with Google ADK for automated academic literature synthesis. Streamlines the research process intelligently.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass/litsynth-ai-literature-review)
-
-</td>
-  </tr>
-</table>
-
-<br/>
-
-### 🌐 Full Stack Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🕵️ [Heart Interrogator](https://github.com/Simthass/heart-interrogator-game)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![DSA](https://img.shields.io/badge/Distributed%20Services-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-A psychological puzzle game where you test detective skills against a **deceptive AI**. Built for Distributed Service Architectures assignment using Node.js, MongoDB, JWT auth, and multiple external APIs.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass/heart-interrogator-game)
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🏕️ [The Great Outdoors](https://github.com/Simthass/The-Great-Outdoors-Ecommerce)
-
-![MERN](https://img.shields.io/badge/MERN%20Stack-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![E-Commerce](https://img.shields.io/badge/E--Commerce-FF6C37?style=flat-square&logo=shopify&logoColor=white)
-
-A full-featured **MERN stack e-commerce platform** for an outdoor gear retailer. Includes user authentication, product catalog, shopping cart, order processing, and inventory management.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass/The-Great-Outdoors-Ecommerce)
-
-</td>
-  </tr>
-</table>
-
-<div align="center">
-
-[![All Projects](https://img.shields.io/badge/🗂️%20View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simthass?tab=repositories)
-
-</div>
-
----
-
-<!-- Current Focus -->
-## 🎯 Current Focus
-
-```bash
-┌──(simthass㉿universe)-[~/2026]
-└─$ cat roadmap.js
-```
-
-```javascript
-const simthass_2026 = {
-  status        : "🟢 Actively Building",
-  
-  learning      : [
-    "⚡ Deep Learning & Neural Architectures",
-    "👁️ Computer Vision with PyTorch",
-    "💬 Natural Language Processing",
-    "🐋 Docker & MLOps Pipelines",
-    "🤖 Multi-Agent Systems with Google ADK"
-  ],
-
-  building      : [
-    "🛡️ TypeTrace — Keystroke Dynamics ML",
-    "📚 LitSynth — AI Literature Co-pilot",
-    "🌐 Full Stack Web Applications",
-  ],
-
-  goals         : {
-    immediate   : "Master PyTorch & build 5 production AI projects",
-    q3_2026     : "Complete B.Sc. with distinction",
-    year_end    : "Land first AI/ML Engineering role 🎯"
-  },
-
-  open_to       : ["Internships", "Research Collaborations", "Open Source"]
-};
-
-console.log("Building the future, one commit at a time 🚀");
-```
-
----
-
-<!-- Achievements -->
-## 🏅 Achievements
-
-```bash
-┌──(simthass㉿universe)-[~/achievements]
-└─$ ls -la --color=always
-```
-
-<div align="center">
-
-![SLIIT](https://img.shields.io/badge/🎓%20B.Sc%20Computer%20Science-SLIIT%20CITY%20UNI-0A66C2?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/GitHub-175%2B%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white)
-![AI Projects](https://img.shields.io/badge/AI%20Projects-4%20Live%20Projects-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Active%20Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
-</div>
-
----
-
-<!-- Snake Game Contribution Graph -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simthass/Simthass/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Simthass/Simthass/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Simthass/Simthass/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+something+incredible+%F0%9F%9A%80;Open+to+collaborations%2C+internships+%26+open+source!+%F0%9F%8C%9F" alt="Footer Typing" />
-
-**⭐ If you find my work interesting, consider giving a star!**
+**Thanks for visiting my profile — feel free to connect, collaborate, or check out my work.**
 
 </div>
